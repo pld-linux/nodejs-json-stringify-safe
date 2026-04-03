@@ -2,7 +2,7 @@
 Summary:	Like JSON.stringify, but doesn't blow up on circular refs
 Name:		nodejs-%{pkg}
 Version:	5.0.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
